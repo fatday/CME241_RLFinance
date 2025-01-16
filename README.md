@@ -2,4 +2,4 @@
 
 ## Winter 2025 - CME 241
 
-## Team Member: Justin Li, Essie Cao, Zihang Song
+## Team Member: Justin Li, Essie Cao, Ziang Song
